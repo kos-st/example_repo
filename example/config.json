@@ -1,0 +1,12 @@
+{ 
+  "mos_login": "",
+  "mos_password": "",
+  "pushgateway-url": "",
+  "jenkins-url": "",
+  "jenkins-username": "",
+  "jenkins-password" : "",
+  "jenkins-job" : "",
+  "job-desc" : "",
+  "product" : "",
+  "priority" : ""
+}
